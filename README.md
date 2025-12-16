@@ -42,7 +42,13 @@ I love writing clean, reusable code and translating designs into pixel-perfect i
 </p>
 
 ### ⚡ GitHub Stats
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=I0ANA24&show_icons=true&theme=radical" alt="github stats" width="45%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=I0ANA24&layout=compact&theme=radical" alt="top langs" width="45%" />
-</p>
+<table border="0">
+  <tr>
+    <td width="50%" align="center">
+      <img height="180px" src="https://github-readme-stats.vercel.app/api?username=I0ANA24&show_icons=true&theme=radical" alt="github stats" />
+    </td>
+    <td width="50%" align="center">
+      <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=I0ANA24&layout=compact&theme=radical" alt="top langs" />
+    </td>
+  </tr>
+</table>
