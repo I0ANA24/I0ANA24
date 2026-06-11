@@ -1,48 +1,36 @@
-# Hi there, I'm Ioana! 👋
+# Ioana Franț
 
-### Frontend Developer ➔ Aspiring Full-Stack Engineer
-
-I am a passionate developer with a strong foundation in building responsive and interactive web applications. After mastering the **React ecosystem**, I am now expanding my skillset towards **Full-Stack Development** by diving deep into Next.js and backend technologies.
-
-I love writing clean, reusable code and translating designs into pixel-perfect interfaces.
+Full-stack developer with a thing for clean interfaces and well-structured backends.
 
 ---
 
-### 🛠️ My Tech Stack
+### What I work with
 
-**Core & Frontend**
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
-</p>
+**Languages**
+TypeScript · JavaScript · C++
 
-**Currently Learning & Exploring**
-<p>
-  <img src="https://img.shields.io/badge/Next.js_16-purple?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-</p>
+**Frontend**
+React · Next.js · Tailwind CSS
+
+**Backend & Database**
+Node.js · PostgreSQL · Prisma
+
+**Tools**
+Git · GitHub · Figma
 
 ---
 
-### 🚀 About Me
+### A few things I've built
 
-* 🎨 **Frontend Roots:** I started my journey mastering **HTML, CSS, and JavaScript**, building intuitive user interfaces.
-* ⚛️ **React Specialist:** I have extensive experience with **React.js** and **Tailwind CSS**, creating modern, component-based architectures.
-* 🔄 **The Transition:** I realized that to build truly powerful products, I need to understand the server side. I am currently focused on **Next.js**, learning about Server Actions, Database Schemas, and Authentication.
+**[UrbanPulse](https://lnkd.in/dGW4btx4)** — community platform with real-time feed, skill-sharing, and emergency features. Built at FIICode 2026 in a 6-week sprint + 24h hackathon. 🥉 3rd place, Web & Mobile Challenge.
+
+**[Bugs Radar](https://bugsradar.netlify.app/)** — web app built for a Romanian client based on a Figma design. React · Tailwind CSS.
+
+**[CV Builder](https://i0ana24.github.io/CV-Application-Top/)** — client-side resume generator. React · Vite.
 
 ---
 
-### 📫 Connect with Me
+### Find me
 
-<p align="left">
-<a href="https://linkedin.com/in/ioana-fran%C8%9B-949b70254" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:frantioana507@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
-
-### ⚡ GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=I0ANA24&show_icons=true&theme=radical" height="165" alt="github stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=I0ANA24&layout=compact&theme=radical" height="165" alt="top langs" />
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ioana-franț-949b70254/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:frantioana507@gmail.com)
